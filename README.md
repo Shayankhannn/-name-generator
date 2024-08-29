@@ -1,2 +1,2 @@
 # -name-generator
-this is created just to practice js in other ways
+this is developed just to practice js in other ways
